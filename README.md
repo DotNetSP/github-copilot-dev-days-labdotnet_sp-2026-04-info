@@ -17,7 +17,7 @@ Evento: **GitHub Copilot Dev Days São Paulo**
 
 Data: **11/04/2026 (sábado)**
 
-Número de participantes: **40 pessoas**
+Número de participantes: **30 pessoas**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub Copilot, Visual Studio Code, Containers, Docker, GitHub Codespaces, .NET, C#, ASP.NET Core, Blazor, Web Asssembly...**
 
