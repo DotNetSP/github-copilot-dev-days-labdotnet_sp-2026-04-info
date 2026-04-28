@@ -55,8 +55,8 @@ Deixamos aqui nossos agradecimentos à **Cynthia Zanoni (Microsoft)** e demais o
 
 ![Banner](img/banner.jpg)
 
-![Feedback 1](img/linkedin/vscode-devdays-lnkd-01.png)
+![Feedback 1](img/feedback-01.png)
 
-![Feedback 2](img/linkedin/vscode-devdays-lnkd-12.png)
+![Feedback 2](img/feedback-02.png)
 
-![Feedback 3](img/linkedin/vscode-devdays-lnkd-02.png)
+![Feedback 3](img/feedback-03.png)
