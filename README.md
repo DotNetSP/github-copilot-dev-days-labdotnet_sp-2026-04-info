@@ -41,17 +41,23 @@ Deixamos aqui nossos agradecimentos à **Cynthia Zanoni (Microsoft)** e demais o
 
 ---
 
-![Renato e Vinicius palestrando 1](img/workshop/workshop-05.jpg)
+![Workshop 1](img/copilot-dotnet-077.jpeg)
 
-![Renato e Vinicius palestrando 2](img/workshop/workshop-04.jpg)
+![Workshop 2](img/copilot-dotnet-050.jpeg)
 
-![Renato e Vinicius palestrando 3](img/workshop/workshop-03.jpg)
+![Workshop 3](img/copilot-dotnet-063.jpeg)
 
-![Renato e Vinicius palestrando 4](img/workshop/workshop-02.jpg)
+![Workshop 4](img/copilot-dotnet-009.jpeg)
 
-![Renato e Vinicius palestrando 5](img/workshop/workshop-01.jpg)
+![Workshop 5](img/copilot-dotnet-003.jpeg)
 
-![Programação](img/mcp/programacao.png)
+![Workshop 6](img/copilot-dotnet-076.jpeg)
+
+![Palestrantes](img/copilot-dotnet-019.jpeg)
+
+![Público](img/copilot-dotnet-020.jpeg)
+
+![Programação](img/programacao.png)
 
 ![Banner](img/banner.jpg)
 
