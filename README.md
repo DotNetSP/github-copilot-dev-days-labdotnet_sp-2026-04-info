@@ -33,7 +33,7 @@ Divulgação em redes sociais: [**LinkedIn**](https://www.linkedin.com/feed/upda
 
 Formulário utilizado para inscrições: [**Luma**](https://luma.com/w0ej1rmf)
 
-Site do Evento: **https://github.com/microsoft/VS-Code-Dev-Days**
+Site do Evento: **https://luma.com/githubcopilotdevdays**
 
 Local: **Av. Paulista, 1106 - 4o andar - Bela Vista - São Paulo-SP - CEP: 01311-000**
 
