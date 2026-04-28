@@ -27,7 +27,7 @@ Instrutores/Palestrantes:
 - **Carlos Machel**
 - **Eduardo Rezende**
 
-Acesse este [**link**](/img/workshop/) para visualizar todas as fotos da apresentação.
+Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 
 Divulgação em redes sociais: [**LinkedIn**](https://www.linkedin.com/events/7361871921379971074/) | [**Meetup**](https://www.meetup.com/womakerscode/events/311069372/) | [**LinkedIn - Pós-Evento**](https://www.linkedin.com/posts/cynthiazanoni_vscodedevdays-visualstudiocode-githubcopilot-activity-7378470054188724224-Svz5/)
 
